@@ -1,0 +1,26 @@
+body{
+  background-color:cornflowerblue; 
+}
+h1{
+  color:pink;
+  font-family:inherit; font-size: 300%;
+}
+
+h2{
+  color:turquoise; font-weight:lighter; font-family: inherit;
+}
+
+p{
+  color:pink;
+  font-size: 100%; font-family: inherit;
+}
+
+img{
+  width:45%;
+  height:45%;
+  display:block; margin:auto;
+}
+
+.center-class{
+  text-align: center; font-family: serif;
+}
